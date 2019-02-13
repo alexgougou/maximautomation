@@ -1,0 +1,9 @@
+[2019-01-10 18:07:10,140] [INFO] [DESKTOP-JO110MB][common.py - line:25] 拉取文件命令:adb -s 2a0c466c pull \sdcard\framework.jar D:\maxim
+[2019-01-10 18:08:27,714] [INFO] [DESKTOP-JO110MB][common.py - line:25] 拉取文件命令:adb -s 2a0c466c pull /sdcard/framework.jar D:\maxim
+[2019-01-10 18:09:19,313] [INFO] [DESKTOP-JO110MB][common.py - line:25] 拉取文件命令:adb -s 2a0c466c pull /sdcard/framework.jar D:\maxim\jar
+[2019-01-10 18:09:50,571] [INFO] [DESKTOP-JO110MB][common.py - line:25] 拉取文件命令:adb -s 2a0c466c pull /sdcard/monkey.jar D:\maxim\jar
+[2019-01-10 18:15:08,541] [INFO] [DESKTOP-JO110MB][common.py - line:41] push本地文件到设备命令:adb -s LKN5T18B09000956 push D:\maxim\jar \sdcard
+[2019-01-10 18:16:56,710] [INFO] [DESKTOP-JO110MB][common.py - line:41] push本地文件到设备命令:adb -s LKN5T18B09000956 push D:\maxim\jar\framework.jar \sdcard
+[2019-01-10 18:17:52,211] [INFO] [DESKTOP-JO110MB][common.py - line:41] push本地文件到设备命令:adb -s LKN5T18B09000956 push D:\maxim\jar\framework.jar \sdcard
+[2019-01-10 18:18:26,803] [INFO] [DESKTOP-JO110MB][common.py - line:41] push本地文件到设备命令:adb -s LKN5T18B09000956 push D:\maxim\jar\framework.jar \sdcard
+[2019-01-10 18:18:32,930] [INFO] [DESKTOP-JO110MB][common.py - line:41] push本地文件到设备命令:adb -s LKN5T18B09000956 push D:\maxim\jar\framework.jar \sdcard

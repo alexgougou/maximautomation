@@ -1,0 +1,21 @@
+[2019-01-14 10:23:22,102] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\cpu.log文件完成
+[2019-01-14 12:03:49,027] [INFO] [DESKTOP-JO110MB][getmem.py - line:42] 获取内存失败:'str' object has no attribute 'startwith'
+[2019-01-14 12:03:49,029] [INFO] [DESKTOP-JO110MB][filetool.py - line:40] D:\maxim\maximautomation\report/tmp/mem.log写入异常[Errno 2] No such file or directory: 'D:\\maxim\\maximautomation\\report/tmp/mem.log'
+[2019-01-14 12:04:29,465] [INFO] [DESKTOP-JO110MB][getmem.py - line:42] 获取内存失败:'str' object has no attribute 'startwith'
+[2019-01-14 12:04:29,467] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\mem.log文件完成
+[2019-01-14 12:04:49,835] [INFO] [DESKTOP-JO110MB][getmem.py - line:42] 获取内存失败:'str' object has no attribute 'startwith'
+[2019-01-14 12:04:49,838] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\mem.log文件完成
+[2019-01-14 12:07:18,391] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\mem.log文件完成
+[2019-01-14 12:28:59,539] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\mem.log文件完成
+[2019-01-14 12:29:50,450] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\mem.log文件完成
+[2019-01-14 12:30:13,107] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\mem.log文件完成
+[2019-01-14 15:06:01,010] [ERROR] [DESKTOP-JO110MB][common.py - line:57] 获取当前activity异常!list index out of range
+[2019-01-14 15:09:30,164] [ERROR] [DESKTOP-JO110MB][common.py - line:54] 获取当前activity异常!'list' object has no attribute 'split'
+[2019-01-14 15:10:31,860] [ERROR] [DESKTOP-JO110MB][common.py - line:54] 获取当前activity异常!list index out of range
+[2019-01-14 15:10:57,515] [ERROR] [DESKTOP-JO110MB][common.py - line:54] 获取当前activity异常!list index out of range
+[2019-01-14 16:22:25,725] [INFO] [DESKTOP-JO110MB][maximrun.py - line:164] 当前monkey进程不存在
+[2019-01-14 16:24:01,395] [ERROR] [DESKTOP-JO110MB][maximrun.py - line:149] 获取activity列表异常:[Errno 2] No such file or directory: 'D:\\maxim\\maximautomation\\report/tmp/monkey.log'
+[2019-01-14 16:25:02,825] [ERROR] [DESKTOP-JO110MB][maximrun.py - line:149] 获取activity列表异常:[Errno 2] No such file or directory: 'D:\\maxim\\maximautomation\\monkey.log'
+[2019-01-14 16:41:37,430] [INFO] [DESKTOP-JO110MB][maximrun.py - line:164] 当前monkey进程不存在
+[2019-01-14 16:41:48,409] [INFO] [DESKTOP-JO110MB][maximrun.py - line:164] 当前monkey进程不存在
+[2019-01-14 16:41:48,410] [ERROR] [DESKTOP-JO110MB][maximrun.py - line:149] 获取activity列表异常:[Errno 2] No such file or directory: 'D:\\maxim\\maximautomation\\monkey.log'

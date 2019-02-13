@@ -1,0 +1,32 @@
+[2019-01-10 14:44:12,583] [INFO] [DESKTOP-JO110MB][filetool.py - line:40] D:\maxim\maximautomation\1.txt写入异常a bytes-like object is required, not 'str'
+[2019-01-10 14:45:26,156] [INFO] [DESKTOP-JO110MB][filetool.py - line:40] D:\maxim\maximautomation\1.txt写入异常a bytes-like object is required, not 'str'
+[2019-01-10 14:46:01,649] [INFO] [DESKTOP-JO110MB][filetool.py - line:40] D:\maxim\maximautomation\1.txt写入异常a bytes-like object is required, not 'str'
+[2019-01-10 14:48:14,504] [INFO] [DESKTOP-JO110MB][filetool.py - line:40] D:\maxim\maximautomation\1.txt写入异常a bytes-like object is required, not 'str'
+[2019-01-10 14:49:41,625] [INFO] [DESKTOP-JO110MB][filetool.py - line:40] D:\maxim\maximautomation\1.txt写入异常a bytes-like object is required, not 'str'
+[2019-01-10 14:50:37,098] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 14:53:22,768] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 14:54:20,427] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 14:54:45,436] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 14:57:18,687] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 15:00:37,564] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 15:05:37,026] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 15:05:49,985] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 15:05:56,764] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 15:48:39,278] [INFO] [DESKTOP-JO110MB][filetool.py - line:52] ???D:\maxim\maximautomation\1.txt???!
+[2019-01-10 15:50:41,620] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] дD:\maxim\maximautomation\1.txt??????
+[2019-01-10 15:53:44,804] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 15:56:31,584] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 15:58:38,396] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 16:01:09,334] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 16:04:47,470] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 16:22:55,641] [INFO] [DESKTOP-JO110MB][filetool.py - line:54] D:\maxim\2.txt文件不存在!
+[2019-01-10 16:23:43,250] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 16:23:43,250] [INFO] [DESKTOP-JO110MB][filetool.py - line:54] D:\maxim\2.txt文件不存在!
+[2019-01-10 16:24:14,349] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 16:24:14,349] [INFO] [DESKTOP-JO110MB][filetool.py - line:54] 写入D:\maxim\2.txt文件不存在!
+[2019-01-10 16:24:29,952] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\1.txt文件完成
+[2019-01-10 16:24:29,952] [INFO] [DESKTOP-JO110MB][filetool.py - line:54] 删除的D:\maxim\2.txt文件不存在!
+[2019-01-10 16:30:11,935] [INFO] [DESKTOP-JO110MB][filetool.py - line:66] 创建D:\maxim\2完成!
+[2019-01-10 16:30:16,058] [INFO] [DESKTOP-JO110MB][filetool.py - line:68] 创建的文件夹D:\maxim\2已存在!
+[2019-01-10 16:31:43,282] [INFO] [DESKTOP-JO110MB][filetool.py - line:66] 创建D:\maxim\2完成!
+[2019-01-10 16:31:47,581] [INFO] [DESKTOP-JO110MB][filetool.py - line:68] 创建的文件夹D:\maxim\2已存在!

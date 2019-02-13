@@ -1,0 +1,33 @@
+[2019-01-11 15:00:41,045] [ERROR] [DESKTOP-JO110MB][getbasic.py - line:91] 获取获取apk文件大小异常:'list' object is not callable
+[2019-01-11 15:03:43,403] [ERROR] [DESKTOP-JO110MB][getbasic.py - line:92] 获取获取apk文件大小异常:'list' object is not callable
+[2019-01-11 15:04:59,580] [ERROR] [DESKTOP-JO110MB][getbasic.py - line:92] 获取获取apk文件大小异常:'list' object is not callable
+[2019-01-11 15:06:48,445] [ERROR] [DESKTOP-JO110MB][getbasic.py - line:92] 获取获取apk文件大小异常:'list' object is not callable
+[2019-01-11 15:07:39,756] [ERROR] [DESKTOP-JO110MB][getbasic.py - line:92] 获取获取apk文件大小异常:'list' object is not callable
+[2019-01-11 15:09:11,050] [ERROR] [DESKTOP-JO110MB][getbasic.py - line:92] 获取获取apk文件大小异常:'list' object is not callable
+[2019-01-11 15:12:37,994] [ERROR] [DESKTOP-JO110MB][getbasic.py - line:92] 获取获取apk文件大小异常:'list' object is not callable
+[2019-01-11 15:13:47,925] [ERROR] [DESKTOP-JO110MB][getbasic.py - line:92] 获取获取apk文件大小异常:'list' object is not callable
+[2019-01-11 15:14:47,303] [ERROR] [DESKTOP-JO110MB][getbasic.py - line:92] 获取获取apk文件大小异常:'list' object is not callable
+[2019-01-11 17:02:39,773] [INFO] [DESKTOP-JO110MB][filetool.py - line:40] D:\maxim\maximautomation\report/tmp/allactivity.log写入异常[Errno 2] No such file or directory: 'D:\\maxim\\maximautomation\\report/tmp/allactivity.log'
+[2019-01-11 17:04:22,116] [INFO] [DESKTOP-JO110MB][filetool.py - line:40] D:\maxim\maximautomation\report/tmp/allactivity.log写入异常[Errno 2] No such file or directory: 'D:\\maxim\\maximautomation\\report/tmp/allactivity.log'
+[2019-01-11 17:05:19,104] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\allactivity.log文件完成
+[2019-01-11 17:06:33,343] [INFO] [DESKTOP-JO110MB][filetool.py - line:40] D:\logs\allactivity.log写入异常[Errno 2] No such file or directory: 'D:\\logs\\allactivity.log'
+[2019-01-11 17:07:44,875] [INFO] [DESKTOP-JO110MB][filetool.py - line:40] D:\logs\allactivity.log写入异常[Errno 2] No such file or directory: 'D:\\logs\\allactivity.log'
+[2019-01-11 17:08:52,770] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\allactivity.log文件完成
+[2019-01-11 17:09:28,056] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\logs\allactivity.log文件完成
+[2019-01-11 17:10:46,892] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\logs\allactivity.log文件完成
+[2019-01-11 17:11:30,741] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\logs\allactivity.log文件完成
+[2019-01-11 17:18:20,800] [ERROR] [DESKTOP-JO110MB][getbasic.py - line:126] 获取设备型号异常!'GetBasic' object has no attribute 'devices'
+[2019-01-11 17:20:25,318] [ERROR] [DESKTOP-JO110MB][getbasic.py - line:126] 获取设备型号异常!'GetBasic' object has no attribute 'devices'
+[2019-01-11 17:26:35,468] [INFO] [DESKTOP-JO110MB][getbasic.py - line:154] 手机总内存:5724.71875MB
+[2019-01-11 17:26:35,604] [INFO] [DESKTOP-JO110MB][getbasic.py - line:159] 手机剩余内存:1676.5078125MB
+[2019-01-11 18:29:51,104] [INFO] [DESKTOP-JO110MB][filetool.py - line:40] D:\maxim\maximautomation\report/tmp/cpu.log写入异常[Errno 2] No such file or directory: 'D:\\maxim\\maximautomation\\report/tmp/cpu.log'
+[2019-01-11 18:30:53,309] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\cpu.log文件完成
+[2019-01-11 18:32:15,454] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\cpu.log文件完成
+[2019-01-11 18:33:35,583] [INFO] [DESKTOP-JO110MB][getcpu.py - line:63] 获取cpu失败:cannot use a string pattern on a bytes-like object
+[2019-01-11 18:33:35,584] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\cpu.log文件完成
+[2019-01-11 18:35:22,378] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\cpu.log文件完成
+[2019-01-11 18:37:43,569] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\cpu.log文件完成
+[2019-01-11 18:38:38,876] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\cpu.log文件完成
+[2019-01-11 18:39:14,368] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\cpu.log文件完成
+[2019-01-11 18:39:36,278] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\cpu.log文件完成
+[2019-01-11 18:40:00,538] [INFO] [DESKTOP-JO110MB][filetool.py - line:38] 写D:\maxim\maximautomation\cpu.log文件完成
